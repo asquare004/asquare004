@@ -40,7 +40,7 @@ I am currently pursuing Bachelor of Technology in Computer Science and Engineeri
 
 ## Let's Work Together
 
-Thank you for visiting my repository ! If you find my projects useful/interesting, please give them a star ⭐. Your support and feedback is highly appreciated ! Open to collaborations :handshake:
+Thank you for visiting my repository. Your support and feedback is highly appreciated. Open to collaborations :handshake:
 
 <!--
 **asquare004/asquare004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
