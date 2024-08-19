@@ -1,4 +1,4 @@
-# Welcome to [asquare004](https://github.com/asquare004)'s Repository
+# Welcome to [asquare004](https://github.com/asquare004)'s Profile
 ## Hi there 👋
 
 I am currently pursuing Bachelor of Technology in Computer Science and Engineering at IIT(ISM) Dhanbad. My current interests include Software Development, Machine Learning, Web Development, App Development, Blockcahin Development, Algorithmic Trading and Quantum Computing. Open to collaborations :handshake:
@@ -40,7 +40,7 @@ I am currently pursuing Bachelor of Technology in Computer Science and Engineeri
 
 ## Let's Work Together
 
-Thank you for visiting my repository. Your support and feedback is highly appreciated. Open to collaborations :handshake:
+Thank you for visiting my profile. Your support and feedback is highly appreciated. Open to collaborations :handshake:
 
 <!--
 **asquare004/asquare004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
