@@ -1,4 +1,4 @@
-# Welcome to [asquare004](https://github.com/asquare004)'s Profile
+# Welcome to my Github profile
 ## Hi there 👋
 
 I am currently pursuing Bachelor of Technology in Computer Science and Engineering at IIT(ISM) Dhanbad. My current interests include Software Development, Machine Learning, Web Development, App Development, Blockcahin Development, Algorithmic Trading and Quantum Computing. Open to collaborations :handshake:
