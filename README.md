@@ -1,7 +1,7 @@
 # Welcome 
 ## :computer: About me
 
-I am currently pursuing Bachelor of Technology in Computer Science and Engineering at IIT(ISM) Dhanbad. My current interests include Software Engineering, Machine Learning, Full Stack Development, Blockcahin Development, Algorithmic Trading and Quantum Computing. 
+I am currently pursuing Bachelor of Technology in Computer Science and Engineering at IIT(ISM) Dhanbad. My current interests include Software Engineering, Machine Learning, Full Stack Development, Blockchain Development, Algorithmic Trading and Quantum Computing. 
 
 Open to collaborations :handshake:
 
