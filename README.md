@@ -3,12 +3,12 @@
 I’m a final-year Computer Science student at IIT (ISM) Dhanbad, primarily focused on Software Engineering and system-level development. I’m passionate about building fast, reliable, and scalable systems—both in traditional backend engineering and in performance-critical domains like low-latency trading systems.
 
 Currently:
-- Working on quant-oriented, low-latency development projects with a partner
-- Actively contributing to a quant finance cohort with occasional pushes to public repos
+- Working on quant-oriented, low-latency development projects
+- Actively contributing to a quant finance cohort 
 - Sharpening my backend, web, and app development skills
 - Exploring blockchain dev and dipping into quantum computing when time permits
 
-I strongly believe in the power of **open source**—not just as a way to give back, but as a platform to sharpen my skills and collaborate with developers worldwide. I’m working toward becoming a regular contributor to meaningful open-source projects.
+I strongly believe in the power of **open source** — not just as a way to give back, but as a platform to sharpen my skills and collaborate with developers worldwide. I’m working toward becoming a regular contributor to meaningful open-source projects.
 
 #### Technical Interests:
 - Scalable backend development | Distributed Systems | System Design
