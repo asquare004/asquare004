@@ -1,37 +1,18 @@
-# Welcome 
-## :computer: About me
+### Hi there, I'm Anders Arnold!
 
-I am currently pursuing Bachelor of Technology in Computer Science and Engineering at IIT(ISM) Dhanbad. My current interests include Software Engineering, Machine Learning, Full Stack Development, Blockchain Development, Algorithmic Trading and Quantum Computing. 
+I’m a final-year Computer Science student at IIT (ISM) Dhanbad, primarily focused on Software Engineering and system-level development. I’m passionate about building fast, reliable, and scalable systems—both in traditional backend engineering and in performance-critical domains like low-latency trading systems.
 
-Open to collaborations :handshake:
+Currently:
+- Working on quant-oriented, low-latency development projects with a partner
+- Actively contributing to a quant finance cohort with occasional pushes to public repos
+- Sharpening my backend, web, and app development skills
+- Exploring blockchain dev and dipping into quantum computing when time permits
 
-## 🔧 Technical Skills
+I strongly believe in the power of **open source**—not just as a way to give back, but as a platform to sharpen my skills and collaborate with developers worldwide. I’m working toward becoming a regular contributor to meaningful open-source projects.
 
-**Programming Languages:** Java, JavaScript, Python, C++, GO, Rust, Solidity, C
+#### Technical Interests:
+- Scalable backend development | Distributed Systems | System Design
+- Quantitative Finance | Low-Latency Architecture | ML/AI (Applied)
+- Web & Mobile Development | Blockchain | Quantum Computing (Exploratory)
 
-**Technologies:** AWS, Spring Boot, Docker, Kubernetes, React.js, Vue.js, MongoDB, Express.js, Linux, mlflow, LangChain, Hugging Face, nltk, spaCy, OpenCV, Keras, PyTorch, TensorFlow, SQL, NumPy, pandas, Matplotlib, Seaborn, HTML, CSS, Qiskit
-
-
-## 📫 Get in Touch
-
-- **Email:**  andersarnold123@gmail.com
-- **LinkedIn:**  [Anders Arnold](https://www.linkedin.com/in/anders-arnold-b63b44298/)
-
-## 👯 Let's Work Together
-
-I would like to thank you for visiting my profile. Your support and feedback is highly appreciated. Open to collaborations :handshake:
-
-<!--
-**asquare004/asquare004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my pinned repositories or reach out—always happy to connect and collaborate!
